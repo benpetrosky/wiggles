@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+}
+
+.sidebar{
+  float: right;
+  color: blue;
+  background-color: yellow;
+  width: 30%;
+}
+.column1 {
+  width: 500px;
+  float: left;
+}
+.column2{
+  float: right;
+  width: 500px;
+}
